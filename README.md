@@ -9,3 +9,4 @@ Design Link: [leon PSD](https://www.graphberry.com/item/leon-psd-agency-template
   * Built with performance in mind, optimized for fast loading times
 
 
+* Live preview : [live version](https://haitam-elgharras.github.io/leon-template/)
